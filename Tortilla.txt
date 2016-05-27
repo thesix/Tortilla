@@ -55,8 +55,8 @@ EXIT-STATUS
         Farbtons der Tortilla eine schwarze Kruste entwickeln.
 
 ZUTATEN
-        Eier
-                Pro Person 2-3 Eier
+        Eier    Pro Person 2-3 Eier
+
         Erdäpfel
                 Pro Person soviel, wie eins in zwei Händen tragen kann
         Zwiebel
