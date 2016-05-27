@@ -1,0 +1,49 @@
+.TH TORTILLA 10
+.SH NAME
+Tortilla \- traditionelles spanisches Gericht
+.SH ÜBERSICHT
+.B Tortilla
+Erdäpfel Zwiebel Eier Salz [Petersilie]
+.SH BESCHREIBUNG
+Die Tortilla beginnt mit der Routinetätigkeit des Erdäpfelschälens.  Die geschälten Erdäpfel sodann in kleine Scheiben oder Stücke (je nach Belieben, 3-5 Milimeter dick) schneiden.  In einer Pfanne so viel Olivenöl erhitzen, dass die Erdäpfelstücke darin Platz haben und leicht mit Öl bedeckt sind.  Die Erdäpfelstücke bei kleiner Hitze im Öl kochen (nicht frittieren); ab und zu umrühren.
+.PP
+Wenn die Erdäpfelstücke schön weich sind, selbige abseihen und leicht ausdrücken.  Das Öl auf jeden Fall aufheben!  Da es nur schwach erhitzt wurde, kann es problemlos wiederverwendet werden.  Während die Erdäpfelstücke (die jetzt eher eine Erdäpfelmasse sind) auskühlen, die Eier aufschlagen und verrühren.  Zwiebel und (optional) Petersilie hacken.
+.PP
+Wenn die Erdäpfel etwas ausgekühlt sind, alle Zutaten (Erdäpfel, Zwiebel, Eier, Salz nach belieben, etc.) gut vermengen.  Zwei oder drei Esslöffel des Öls zurück in die Pfanne geben und erhitzen.  Dann die gut vermengten Zutaten in die Pfanne geben, gleichmäßig verteilen und bei schwacher Hitze braten bis der Boden leicht braun ist.  Dann wenden und nochmals ein paar Minuten braten.
+.PP
+Zum Wenden empfiehlt sich folgende Technik:  die Tortilla aus der Pfanne auf einen Teller rutschen lassen.  Dann die Pfanne über den Teller mit der Tortilla stülpen und die beiden gemeinsam umdrehen.
+.SH OPTIONEN
+Optional kann die Tortilla mit allen erdenklichen Gemüsen erweitert
+werden.  Der eigenen Fantasie sind hier keine Grenzen gesetzt.
+Eine sehr geschmackvolle Erweiterung besteht darin, die fertige
+Tortilla mit eine pikanten Sauce aus Paradeisern, Zwiebeln, Kräutern
+und Gewürzen zu übergießen.
+.SH EXIT-STATUS
+Eine erfolgreiche Rezeptausführung endet mit einer beidseitig
+goldgeld gebratenen Tortilla.
+.PP
+Es kann vorkommen, dass schon im ersten Arbeitsschritt ein
+beträchtlicher Teil der Erdäpfelstücke am Pfannenboden haften
+bleiben.
+.PP
+Bei zu großer Hitze kann sich statt des gewünschten goldgelben
+Farbtons der Tortilla eine schwarze Kruste entwickeln.
+.SH ZUTATEN
+.TP
+.BR Eier\fR
+Pro Person 2-3 Eier
+.TP
+.BR Erdäpfel\fR
+Pro Person soviel, wie eins in zwei Händen tragen kann
+.TP
+.BR Zwiebel\fR
+1/2 pro Person
+.TP
+.BR Petersilie\fR
+Optional
+.SH AUTOR
+Diese Handbuchseite wurde von Jogi Hofmüller \fB<jogi@mur\&.at\fP> für Wilfried Wöber \fB<wilfired\&.woeber@univie\&.ac\&.at\fP> verfasst.  Sie ist wahrscheinlich der erste Eintrag im Abschnitt 10 der Handbuchseiten.  Abschnitt 10 beinhaltet Handbuchseiten zum leiblichen Wohl der Administrator*innen und Hacker*innen.
+.SH COPYRIGHT
+Als klassisches Gericht der spanischen Küche steht die Tortilla in der Public Domain und kann gefahrlos von jederfrau/man zubereitet werden.
+.SH GESCHICHTE
+Erste Erwähnungen der Tortilla mit Erdäpfeln stammen aus dem 19.  Jahrhundert, wenngleich  schon die Azteken Tortillas auf den Märkten verkauften.
